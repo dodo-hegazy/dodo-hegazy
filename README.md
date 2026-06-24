@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Dareen;Front-End+Developer+⚛️;React.js+Enthusiast;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Turning Ideas Into Interactive Reality ✨</h3>
+<h2 align="center">Turning Ideas Into Interactive Reality 😎💪🏻</h2>
 
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dodo-hegazy&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="dodo-hegazy" /> </p>
 
 - 🔭 I’m currently building **Next-Level React Projects**
-- 🌱 I’m mastering **TypeScript + Next.js + Tailwind**
+- 🌱 I’m mastering **TypeScript + Next.js + Tailwind + React.js**
 - 👯 I’m looking to collaborate on **Open Source React Apps**
 - 💬 Ask me about **React.js, JavaScript ES6+, CSS Magic**
 - 📫 Reach me: **mohamedhegazyece@gmail.com**
