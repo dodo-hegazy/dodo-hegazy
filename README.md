@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dareen+Hegazy;Frontend+Developer+%F0%9F%92%BB;React.js+%26+Next.js+Lover+%E2%9A%9B%EF%B8%8F;Welcome+to+my+Digital+World+%F0%9F%8C%8D" alt="Typing SVG" />
 </div>
 
-<!-- صورة الكودينج الشيك -->
-<img align="right" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-Gifs/main/Animations/Coding-Girl/coding.gif" />
+<!-- صورة اللابتوب والقهوة الشيك ☕💻 -->
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" />
 
 <h3 align="left">About Me 😎💻</h3>
 
