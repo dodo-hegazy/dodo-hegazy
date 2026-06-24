@@ -4,9 +4,7 @@
 
 <h2 align="center">Turning Ideas Into Interactive Reality 😎💪🏻</h2>
 
-  <p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-e0b7b6b4-8e81-4460-8830-377ae19562c6.gif" width="400" alt="Coding">
-</p>
+  <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212257454-e0b7b6b4-8e81-4460-8830-377ae19562c6.gif" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dodo-hegazy&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="dodo-hegazy" /> </p>
 
