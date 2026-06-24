@@ -41,18 +41,40 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </p>
 
-<h3 align="left">Connect With Me 🌐💪🏻</h3>
-<p align="left">
+<!-- Connect With Me الفخم 🔥💯 -->
+<h3 align="left">🌐 Let's Connect & Build Together 😎💪🏻</h3>
+<br>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/dareen-hegazy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
   </a>
   <a href="mailto:dareen@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
   </a>
   <a href="https://twitter.com/dodo_hegazy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"/>
   </a>
-</p>
+  <a href="https://dareen-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/dodo-hegazy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+to+collaboration+%F0%9F%9A%80;Let's+create+something+amazing+together+%F0%9F%92%AA%F0%9F%8F%BB;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dodo-hegazy&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dodo-hegazy?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=0D1117" alt="GitHub Followers" />
+</div>
 
 <br>
 
