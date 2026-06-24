@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="left">Top Skills😎🛠️</h3>
+<h3 align="left">Languages | Tools | Frameworks😎🛠️</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,figma&perline=11" />
 </p>
