@@ -32,10 +32,16 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&border_radius=15" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" />
-</p>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" />
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
