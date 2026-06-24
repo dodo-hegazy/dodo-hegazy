@@ -45,6 +45,9 @@
 
 <h3 align="left">🐍 Contribution Graph:</h3>
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=github-dark&hide_border=true" />
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/dodo-hegazy/dodo-hegazy/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
