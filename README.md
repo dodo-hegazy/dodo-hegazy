@@ -1,6 +1,6 @@
 <!-- Typing SVG الفخم -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=darkblue&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dareen+Hegazy;Frontend+Developer+%F0%9F%92%BB;React.js+%26+Next.js+Lover+%E2%9A%9B%EF%B8%8F;Welcome+to+my+Digital+World+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=brown&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dareen+Hegazy;Frontend+Developer+%F0%9F%92%BB;React.js+%26+Next.js+Lover+%E2%9A%9B%EF%B8%8F;Welcome+to+my+Digital+World+%F0%9F%8C%8D" alt="Typing SVG" />
 </div>
 
 <!-- صورة اللابتوب والقهوة الشيك ☕💻 -->
