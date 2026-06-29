@@ -8,7 +8,7 @@
 
 <h3 align="left">About Me 😎💻</h3>
 
-- 🔥 **Frontend Developer**😎 from Egypt 🇪🇬
+- 🔥 **Frontend Developer**😎 from Egypt 🇪🇬 14 years old🤩💪🏻
 - 💪🏻 Passionate about turning ideas into interactive reality
 - ⚡ Obsessed with learning something new every day in **React.js** & **Next.js**
 - 🎯 My goal is to build work that wows people and leaves a mark
