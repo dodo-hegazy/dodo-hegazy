@@ -1,80 +1,91 @@
-<!-- ANIMATION المقدمة بتاعتك بالظبط -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF,FF6B6B&center=true&vCenter=true&width=700&lines=Hi+%2C+I'm+Dareen+Mohamed+Hegazy+%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Front+End+Developer+%F0%9F%92%BB;React+%26+Next+Lover+%E2%9A%A1;Welcome+to+My+Digital+World+%F0%9F%8C%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00A3FF,7F5AF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dareen+Mohamed+Hegazy;Frontend+Developer+%7C+React+%26+Next.js;Building+the+web+with+clean+code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dodo-hegazy&label=Profile%20Views&color=00D9FF&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Age-14-FF6B6B?style=for-the-badge&logo=fire&logoColor=white" />
-  <img src="https://img.shields.io/badge/Egypt-%F0%9F%87%AA%F0%9F%87%AC-FFD700?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=dodo-hegazy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Age-14-7F5AF0?style=flat" alt="Age" />
+  <img src="https://img.shields.io/badge/Location-Egypt-00A3FF?style=flat" alt="Location" />
 </p>
 
 ---
 
-## About Me 😎💻
+### About Me
 
-- 🔥 **Frontend Developer** from Egypt 🇪🇬 14 years old 💪🏻
-- 😉 Passionate about turning ideas into interactive reality 
-- 👩🏼‍💻 Obsessed with learning something new every day in **React.js** & **Next.js**
-- 🌏 My goal is to build work that wows people and leaves a mark
-- ☕ Code + Coffee = My Life 💯
-- 🚀 Currently crafting pixel-perfect, blazing-fast web experiences 💻
+Frontend Developer focused on building fast, accessible, and pixel-perfect web experiences.  
+I specialize in **React.js** and **Next.js**, with a strong eye for UI/UX and clean, maintainable code.
 
-<br>
-
-## Top Skills & Tools 🛠️🔥
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,figma&perline=11&theme=dark" />
-</p>
+- 🔭 **Currently working on**: Personal projects with React, Next.js, and Tailwind CSS
+- 🌱 **Learning**: TypeScript, Advanced React Patterns, and Performance Optimization  
+- 💬 **Ask me about**: Frontend, Responsive Design, React, Next.js
+- ⚡ **Fun fact**: Started coding at 14 and building production-level UIs
 
 <br>
 
-## GitHub Analytics 💯💻
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=15" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&border_radius=15" />
-</p>
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15" />
+<td width="65%" valign="top">
+
+### Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools & Others**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </td>
-<td width="50%" align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" />
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Developer coding" />
 </td>
 </tr>
 </table>
 
+<br>
+
+### GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=7F5AF0&icon_color=00A3FF&text_color=FFFFFF&border_radius=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F5AF0&ring=00A3FF&fire=7F5AF0&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7F5AF0&line=00A3FF&point=FFFFFF&area=true&area_color=7F5AF0" alt="Activity Graph" />
+</p>
+
+### Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
 
-## Let's Connect & Build Together 😎💪🏻
+### Connect With Me
+
 <p align="center">
 <a href="https://www.linkedin.com/in/dareen-hegazy" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:dareen@example.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://dareen-portfolio.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/dodo-hegazy" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF6B6B,00D9FF&center=true&vCenter=true&width=600&lines=Open+to+collaboration+%F0%9F%9A%80;Let's+create+something+amazing+together+%F0%9F%92%AF;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
-</p>
-
 ---
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=80&section=footer&text=&fontSize=0" />
 </p>
