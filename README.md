@@ -54,7 +54,7 @@
 <a href="https://www.linkedin.com/in/dareen-hegazy" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
-<a href="mailto:dareen@example.com" target="_blank">
+<a href="mailto:mohamedhegazyce@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
 </a>
 <a href="https://twitter.com/dodo_hegazy" target="_blank">
@@ -80,15 +80,3 @@
 <img src="https://komarev.com/ghpvc/?username=dodo-hegazy&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/dodo-hegazy?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=0D1117" alt="GitHub Followers" />
 </div>
-
-<br>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dodo-hegazy&label=Profile Views&color=00D9FF&style=for-the-badge" alt="dodo-hegazy" />
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
