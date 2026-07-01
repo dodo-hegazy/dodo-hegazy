@@ -1,70 +1,82 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=800&color=58A6FF,A371F7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Dareen+Mohamed+Hegazy;Frontend+Developer+%7C+React+%26+Next.js+Engineer;Crafting+Scalable%2C+Modern+Web+Interfaces" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3500&pause=1000&color=4A90E2,9B59B6&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Dareen+Mohamed+Hegazy;Frontend+Developer+%7C+React+%26+Next.js;Welcome+to+My+Digital+World+%F0%9F%8C%8F" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dodo-hegazy&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Age-14-161B22?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend_Dev-A371F7?style=for-the-badge&logo=react&logoColor=white" />
-</p>
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Age-14-E5E7EB?style=flat-square&logoColor=374151" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-E5E7EB?style=flat-square&logoColor=374151" />
+  <img src="https://img.shields.io/badge/Egypt-E5E7EB?style=flat-square&logoColor=374151" />
 
----
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## About Me 👩🏼‍💻💯
-
-Frontend Developer from Egypt 🇪🇬. I build high-performance, responsive, and accessible web applications.
-
-**What I Do** 💪🏻
-- Develop modern UIs with **React.js** and **Next.js** 🔥
-- Focus on clean code, TypeScript, and performance 💻
-- Translate Figma designs to pixel-perfect code
-- Always learning, always shipping ☕
-
-**Current Focus** 😎  
-Next.js 14, Server Components, Tailwind CSS, and building a strong portfolio.
-
-</td>
-<td width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Developer with coffee coding" />
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Tech Stack 🔥
+<div align="center">
+  <table>
+    <tr>
+      <td width="58%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,git,github,vscode,figma,vercel&theme=dark" />
-</p>
+### About Me 👩🏼‍💻☕
+
+I’m a 14 y/o Frontend Developer focused on building gentle, elegant, and high-quality web experiences. 😎
+
+**I specialize in** 💪🏻
+- **React & Next.js** for fast, modern applications 🔥
+- Clean, readable, and scalable code 💻
+- Pixel-perfect UI from design to production 💯
+- Accessibility and performance-first development
+
+> "Code should feel as good as it looks."
+
+      </td>
+      <td width="42%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 12px;" alt="Developer coding with coffee" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### Tech Stack 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,git,github,vscode,figma&theme=light&perline=6" />
+</div>
 
 ---
 
-## GitHub Analytics 💻
+### GitHub Overview 
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=github_dark&hide_border=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=A371F7&border_radius=8" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=default&hide_border=true&show_icons=true&bg_color=FFFFFF&title_color=374151&icon_color=4A90E2&text_color=4B5563&border_radius=10" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=default&hide_border=true&background=FFFFFF&stroke=4A90E2&ring=9B59B6&fire=9B59B6&border_radius=10" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=A371F7&point=FFFFFF&area=true&area_color=58A6FF" />
-</p>
-
----
-
-## Connect With Me 😎
-
-<p align="center">
-  <a href="https://linkedin.com/in/dareen-hegazy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dareen@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/dodo-hegazy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://dareen-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=github-light&hide_border=true&bg_color=FFFFFF&color=4A90E2&line=9B59B6&point=374151&area=true&area_color=DBEAFE" width="95%" />
+</div>
 
 ---
-<p align="center"><sub>Built with precision by a 14 y/o Frontend Developer 💯</sub></p>
+
+### Let's Connect 😎
+
+<div align="center">
+  
+  <a href="https://linkedin.com/in/dareen-hegazy">
+    <img src="https://img.shields.io/badge/LinkedIn-4A90E2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dareen@example.com">
+    <img src="https://img.shields.io/badge/Email-9B59B6?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dodo-hegazy">
+    <img src="https://img.shields.io/badge/GitHub-374151?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://dareen-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+
+  <br/><br/>
+  <sub>Frontend Developer • 14 • Building with care 💯</sub>
+</div>
