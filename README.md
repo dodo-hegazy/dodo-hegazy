@@ -1,6 +1,8 @@
-<h1 align="center">
+ر<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F7B2AD&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+World+%F0%9F%8C%8F" />
 </h1>
+
+<br>
 
 <table>
 <tr>
@@ -24,15 +26,15 @@
 </tr>
 </table>
 
----
+<br>
 
 ## Top Skills 😎🛠️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,git,github,vscode,figma&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,git,github,vscode,figma,framer&theme=dark" />
 </p>
 
----
+<br>
 
 ## GitHub Stats 📊
 
@@ -41,7 +43,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
----
+<br>
 
 ## Connect With Me 🌐
 
