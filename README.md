@@ -37,19 +37,23 @@
 <br>
 
 
+
 ## GitHub Analytics 📊🔥
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=1A1B26&title_color=F7B2AD&icon_color=8B5CF6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=react-dark&hide_border=true&area=true&color=F7B2AD&line=6366F1&point=EC4899" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=tokyonight&hide_border=true&background=1A1B26&ring=F7B2AD&fire=8B5CF6&currStreakLabel=F7B2AD" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=tokyo-night&hide_border=true&area=true&color=8B5CF6&line=F7B2AD&point=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2" />
 </p>
 
 <br>
@@ -58,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/dodo-hegazy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoSize=auto" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/dareen-hegazy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -72,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </p>
 
 ---
