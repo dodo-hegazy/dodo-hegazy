@@ -1,8 +1,10 @@
-<h1 align="center">Welcome to my Digital World 🌏</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F7B2AD&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+World+%F0%9F%8C%8F" />
+</h1>
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 ## About Me 😎💻
 
@@ -14,9 +16,9 @@
 - 🚀 Currently crafting pixel-perfect, blazing-fast web experiences
 
 </td>
-<td width="40%">
+<td width="45%">
 
-<img src="https://i.imgur.com/8Q4L9aE.gif" alt="pixel dev" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 </td>
 </tr>
@@ -27,19 +29,7 @@
 ## Top Skills 😎🛠️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,git,github,vscode,figma&theme=dark" />
-</p>
-
----
-
-## Tech Stack 💻
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,git,github,vscode,figma&theme=dark&perline=6" />
 </p>
 
 ---
@@ -47,8 +37,8 @@
 ## GitHub Stats 📊
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=dark&hide_border=true&show_icons=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=dark&hide_border=true&show_icons=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
 ---
