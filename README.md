@@ -40,8 +40,8 @@
 
 <!-- الصف الاول: الاحصائيات الاساسية -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00F5FF&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00F5FF&currStreakLabel=FF00FF" />
+hegazy&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00F5FF&text_color=FFFFFF" />
+hegazy&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00F5FF&currStreakLabel=FF00FF" />
 </p>
 
 <!-- الصف التاني: اللغات + التروفي -->
