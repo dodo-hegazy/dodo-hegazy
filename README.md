@@ -35,29 +35,42 @@
 </p>
 
 <br>
+### 📊 GitHub Analytics Dashboard
 
-### 📊 GitHub Analytics
-
-<!-- الصف الاول: الاحصائيات الاساسية -->
+<!-- الكروت الاساسية -->
 <p align="center">
-hegazy&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00F5FF&text_color=FFFFFF" />
-hegazy&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00F5FF&currStreakLabel=FF00FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=FF00FF&icon_color=00F5FF&text_color=C9D1D9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=transparent&hide_border=true&background=00000000&ring=FF00FF&fire=00F5FF&currStreakLabel=FF00FF&sideLabels=C9D1D9" />
 </p>
 
-<!-- الصف التاني: اللغات + التروفي -->
+<!-- اللغات + النشاط -->
+<table align="center">
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=C9D1D9&langs_count=6" />
+</td>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dodo-hegazy&theme=radical" />
+</td>
+</tr>
+</table>
+
+<!-- جراف المساهمات بستايل جديد -->
+<h3 align="center">📈 Contribution Activity</h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&langs_count=8" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=github-dark&hide_border=true&area=true&area_color=FF00FF&color=00F5FF&line=FF00FF&point=FFFFFF&bg_color=0D1117" />
 </p>
 
-<!-- الصف التالت: جراف المساهمات الجديد -->
+<!-- شارات الانجازات -->
+<h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FF00FF&line=00F5FF&point=FFFFFF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 </p>
 
-<!-- الصف الرابع: Snake -->
+<!-- التعبان المميز -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 </p>
 ## Let's Connect 🌐
 
