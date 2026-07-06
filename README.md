@@ -36,26 +36,29 @@
 
 <br>
 
-## GitHub Analytics 📊🔥
+### 📊 GitHub Analytics
 
+<!-- الصف الاول: الاحصائيات الاساسية -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=1A1B26&title_color=F7B2AD&icon_color=8B5CF6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00F5FF&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00F5FF&currStreakLabel=FF00FF" />
 </p>
 
+<!-- الصف التاني: اللغات + التروفي -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=tokyonight&hide_border=true&background=1A1B26&ring=F7B2AD&fire=8B5CF6&currStreakLabel=F7B2AD" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&langs_count=8" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" />
 </p>
 
+<!-- الصف التالت: جراف المساهمات الجديد -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=tokyo-night&hide_border=true&area=true&color=8B5CF6&line=F7B2AD&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FF00FF&line=00F5FF&point=FFFFFF" />
 </p>
 
+<!-- الصف الرابع: Snake -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<br>
-
 ## Let's Connect 🌐
 
 <p align="center">
