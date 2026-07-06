@@ -1,81 +1,61 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F7B2AD,8B5CF6&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+World+%F0%9F%8C%8F" />
-</h1>
-
-<br>
-
-<table>
-<tr>
-<td width="55%">
-
-## About Me 😎💻
-
-- 🔥 **Frontend Developer** 👩🏼‍💻 from Egypt 🇪🇬
-- ✨ Passionate about turning ideas into interactive reality
-- ⚡ Obsessed with learning something new every day in **React.js & Next.js**
-- 🎯 My goal is to build work that wows people and leaves a mark
-- ☕ Code + Coffee = My Life 💯
-- 🚀 Currently crafting pixel-perfect, blazing-fast web experiences
-
-</td>
-<td width="45%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Top Skills 😎🛠️
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF00FF,00F5FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Dareen+Mohamed+Hegazy+%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Frontend+Developer+%7C+React+%26+Next.js+Lover+%E2%9A%A1;Welcome+to+my+Digital+World+%F0%9F%8C%8F" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,git,github,vscode,figma,framer&theme=dark" />
+  <img src="https://img.shields.io/badge/Frontend_Developer-FF00FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-00F5FF?style=for-the-badge&logo=nextdotjs&logoColor=000" />
+  <img src="https://img.shields.io/badge/Available_for_Freelance-00FFA3?style=for-the-badge&logo=handshake&logoColor=000" />
 </p>
 
 <br>
 
-## GitHub Analytics 📊🔥
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=1A1B26&title_color=F7B2AD&icon_color=8B5CF6" />
-</p>
+### 😎 About Me
+- 💪🏻 **Frontend Developer** from Egypt 🇪🇬 
+- 👩🏼‍💻 I build beautiful, fast, and responsive websites
+- ☕ Turning coffee into React components every day
+- 🌏 Passionate about UI/UX and pixel-perfect designs
+- 💻 Currently diving deep into **Next.js 15 & TypeScript**
+- 💯 My goal: Create digital experiences people love
+- 🔥 Always learning, always building
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=tokyonight&hide_border=true&background=1A1B26&ring=F7B2AD&fire=8B5CF6&currStreakLabel=F7B2AD" />
-</p>
+<br clear="right"/>
+<br>
 
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=tokyo-night&hide_border=true&area=true&color=8B5CF6&line=F7B2AD&point=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass,redux,git,github,vscode,figma,framer,vite&perline=8&theme=dark" />
 </p>
 
 <br>
 
-## Let's Connect 🌐
-
+### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/dodo-hegazy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/dareen-hegazy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dareen@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&theme=transparent&hide_border=true&title_color=FF00FF&text_color=FFFFFF&icon_color=00F5FF&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=transparent&hide_border=true&background=0D1117&ring=FF00FF&fire=00F5FF&currStreakLabel=FF00FF" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
----
-<p align="center"><sub>© 2026 Dareen Mohamed Hegazy | Crafted with passion and ☕</sub></p>
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<br>
+
+### 🌐 Let's Connect
+<p align="center">
+  <a href="https://github.com/dodo-hegazy"><img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dareen-hegazy"><img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=000" /></a>
+  <a href="mailto:dareen@example.com"><img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=000" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=120&section=footer" />
+</p>
