@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Dareen+Mohamed+Hegazy;Frontend+Developer;UI+%26+UX+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
   
   <br>
-  <i>👩🏼‍💻 "Turning ideas into interactive Website"😎</i>
+  <i>😎 "Turning ideas into interactive Website"😎</i>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header"/>
   
