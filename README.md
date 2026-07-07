@@ -17,22 +17,27 @@ I'm a **Frontend Developer** from Egypt 🇪🇬 passionate about crafting clean
 - 💡 **Goal**: Build products that solve real problems and look amazing
 
 ---
-
 ### 📸 Highlight
-<p align="center">
-  <img src="https://github.com/dodo-hegazy/dodo-hegazy/blob/main/WhatsApp%20Image%202026-07-06%20at%2018.26.39.jpeg" 
-  width="250" 
-  style="border-radius: 50%; border: 4px solid #58A6FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3)"/>
-  <br>
-  <i>📍 With <b>Eng. Osama Elzero</b> at <b>BUC</b> -British University<br>
-  One of my proudest moments 💻🔥</i>
-</p>
+
+<div align="center">
+
+<img src="https://github.com/dodo-hegazy/dodo-hegazy/blob/main/WhatsApp%20Image%202026-07-06%20at%2018.26.39.jpeg" 
+width="280" 
+style="border-radius: 20px; border: 3px solid #58A6FF;"/>
+
+<br>
+
+**📍 With Eng. Osama Elzero at BUC - British University**  
+*One of my proudest moments* 💻🔥
+
+</div>
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass,redux,git,github,vscode,figma,vite&perline=7" />
 </p>
 
----
 
 ### 📊 GitHub Analytics
 <p align="center">
