@@ -42,16 +42,9 @@ style="border-radius: 20px; border: 3px solid #58A6FF;"/>
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-  alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&theme=tokyonight&hide_border=true&layout=compact" 
-  alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 ---
