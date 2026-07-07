@@ -37,7 +37,7 @@ style="border-radius: 20px; border: 3px solid #58A6FF;"/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass,redux,git,github,vscode,figma,vite&perline=7" />
 </p>
-
+---
 
 ### 📊 GitHub Analytics
 <p align="center">
