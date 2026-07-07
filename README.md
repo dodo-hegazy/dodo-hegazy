@@ -40,18 +40,18 @@ style="border-radius: 20px; border: 3px solid #58A6FF;"/>
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+  alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&theme=tokyonight&hide_border=true&layout=compact" 
+  alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak"/>
 </p>
 
 ---
