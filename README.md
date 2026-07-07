@@ -1,20 +1,21 @@
 <div align="center">
   
-  # 👩🏼‍💻 Dareen Mohamed Hegazy
-  ### 💻 Frontend Developer | UI Enthusiast | Code Artist 💯
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Dareen+Mohamed+Hegazy;Frontend+Developer;UI+%26+UX+Enthusiast;Code+Artist+%F0%9F%92%9C" alt="Typing SVG" />
   
   <img src="https://github.com/dodo-hegazy/dodo-hegazy/blob/main/WhatsApp%20Image%202026-07-06%20at%2018.26.39.jpeg?raw=true" width="250" style="border-radius: 50%; border: 4px solid #7F5AF0;"/>
   
   <br>
-  <i>🔥 "I design experiences, not just websites" 🔥</i>
+  <img src="https://media.giphy.com/media/L1R1TKefqUqUk/giphy.gif" width="80">
+  <i>"I design experiences, not just websites" 💜</i>
+  <img src="https://media.giphy.com/media/L1R1TKefqUqUk/giphy.gif" width="80">
   
 </div>
 
 ---
 
 ### ✨ About Me
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
-  
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTjeG/giphy.gif" width="200"/>
+
 **👩🏼‍💻 Who I Am**  
 Frontend Developer passionate about crafting beautiful, responsive, and user-friendly web experiences.
 
@@ -22,12 +23,12 @@ Frontend Developer passionate about crafting beautiful, responsive, and user-fri
 Building modern interfaces with **React, Tailwind CSS, and JavaScript** that feel as good as they look.
 
 **💬 Let's Talk About**  
-UI/UX, Clean Code, Pixel Perfect Design, and Web Animations 😎
+`UI/UX` `Clean Code` `Pixel Perfect` `Animations` 😎
 
 **⚡ My Formula**  
 `Coffee ☕` + `Creativity 🎨` + `Code 💻` = `Magic 💯`
 
-</div>
+<br clear="both"/>
 
 ---
 
@@ -54,7 +55,7 @@ UI/UX, Clean Code, Pixel Perfect Design, and Web Animations 😎
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect 💜
 <p align="center">
   <a href="https://github.com/dodo-hegazy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -62,5 +63,6 @@ UI/UX, Clean Code, Pixel Perfect Design, and Web Animations 😎
 </p>
 
 <div align="center">
-  <h3>Thanks for visiting my profile 💜 Let's build something amazing! 😎🔥</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <h3>Thanks for visiting my profile! Let's build something amazing! 😎🔥</h3>
 </div>
