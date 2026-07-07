@@ -24,7 +24,7 @@ I'm a **Frontend Developer** from Egypt 🇪🇬 passionate about crafting clean
   width="250" 
   style="border-radius: 50%; border: 4px solid #58A6FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3)"/>
   <br>
-  <i>📍 With <b>Eng. Osama Elzero</b> at <b>BUC</b> - Badr University<br>
+  <i>📍 With <b>Eng. Osama Elzero</b> at <b>BUC</b> -British University<br>
   One of my proudest moments 💻🔥</i>
 </p>
 ### 🛠️ Tech Stack
