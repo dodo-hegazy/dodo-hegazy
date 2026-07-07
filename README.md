@@ -20,7 +20,7 @@ I'm a **Frontend Developer** from Egypt 🇪🇬 passionate about crafting clean
 
 ### 📸 Highlight
 <p align="center">
-  <img src="blob:https://web.whatsapp.com/e2a110bf-17f5-49dd-83a4-8d9eca09b6ec" width="65%" style="border-radius: 16px; border: 3px solid #58A6FF"/>
+  <img src="https://github.com/dodo-hegazy/dodo-hegazy/blob/main/WhatsApp%20Image%202026-07-06%20at%2018.26.39.jpeg" width="65%" style="border-radius: 16px; border: 3px solid #58A6FF"/>
 
   <br>
   <i>📍 With <b>Eng. Osama Elzero</b> at The American University in Cairo AUC<br>
