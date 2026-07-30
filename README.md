@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
   <h1>💻 Frontend Developer 💻</h1>
 </div>
 
@@ -105,14 +105,15 @@ but production-ready and user-friendly.
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=github_dark&hide_border=true&background=0D1117" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&theme=github_dark&hide_border=true&bg_color=0D1117&layout=compact" height="150"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&theme=github_dark&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&title_color=58A6FF" height="150"/>
+</div>
 
 ---
 
