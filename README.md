@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- الانيميشن متسنتر وفي النص -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=2000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Dareen+Mohamed+Hegazy;Frontend+Developer;React+%7C+Tailwind+%7C+Next.js;Turning+Ideas+Into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=2000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Dareen+Mohamed+Hegazy;Frontend+Developer😎;React+%7C+Tailwind+%7C+Next.js;Turning+Ideas+Into+Code" alt="Typing SVG" />
 
 <br/>
 ### 👩🏼‍💻 About Me
