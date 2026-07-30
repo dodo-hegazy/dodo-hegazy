@@ -111,11 +111,7 @@ but production-ready and user-friendly.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=tokyonight&hide_border=true&bg_color=0D1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&area=true&area_color=7F5AF0" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/dodo-hegazy/dodo-hegazy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
----
 
 
 
