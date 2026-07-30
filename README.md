@@ -103,28 +103,71 @@ but production-ready and user-friendly.
 
 ---
 
-### 📊 GitHub Analytics
+
+### 📊 GitHub Analytics Pro
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" height="180"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=7F5AF0&count_private=true&include_all_commits=true" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F5AF0&ring=7F5AF0&fire=7F5AF0&currStreakLabel=7F5AF0" height="180"/>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&theme=github_dark&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&title_color=58A6FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10&title_color=7F5AF0" height="160"/>
 </div>
 
 ---
 
-### 📈 Contribution Activity
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
+### 📈 Contribution Snake
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=tokyonight&hide_border=true&bg_color=0D1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&area=true&area_color=7F5AF0" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dodo-hegazy/dodo-hegazy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=100&section=footer"/>
-</div>**
+  <a href="https://github.com/dodo-hegazy/your-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dodo-hegazy&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/dodo-hegazy/your-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dodo-hegazy&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/dodo-hegazy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer"/>
+  <h3>Built with 💜 by Dareen</h3>
+</div>
