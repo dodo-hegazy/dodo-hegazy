@@ -1,8 +1,9 @@
+<div align="center">
 
-<!-- انيميشن الاسم -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hello+I'm+Dareen+Mohamed+Hegazy;I+am+a+Frontend+Developer;I+Build+Beautiful+Web+Apps;I+Love+React+%2B+Tailwind" alt="Typing SVG" />
----
+<!-- الانيميشن متسنتر وفي النص -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=2000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Dareen+Mohamed+Hegazy;Frontend+Developer;React+%7C+Tailwind+%7C+Next.js;Turning+Ideas+Into+Code" alt="Typing SVG" />
 
+<br/>
 ### 👩🏼‍💻 About Me
 
 I am a **Frontend Developer** focused on building beautiful, fast, and accessible web experiences. 
