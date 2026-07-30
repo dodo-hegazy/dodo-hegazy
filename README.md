@@ -1,81 +1,58 @@
-<div align="center">
-  
-# Dareen Mohamed Hegazy
-### 💻 Frontend Developer | UI/UX Enthusiast | Code Artist
+<h1 align="center">Hi 👋, I'm Dareen Mohamed Hegazy</h1>
+<h3 align="center">A passionate Frontend Developer from Egypt</h3>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dodo-hegazy&label=Profile%20views&color=0e75b6&style=flat" alt="dodo-hegazy" />
+</p>
 
 ---
 
 ### 👩🏼‍💻 About Me
 
-I am a passionate **Frontend Developer** who loves creating beautiful and interactive web experiences. 
-I focus on writing clean, efficient, and scalable code while keeping the user experience at the center.
-
-- 🔭 I’m currently working on **React & Tailwind Projects**
+- 🔭 I’m currently working on **React and Tailwind Projects**
 - 🌱 I’m currently learning **Next.js and Framer Motion**
+- 👨‍💻 All of my projects are available at **https://github.com/dodo-hegazy**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind**
-- ⚡ Fun fact: **Coffee is my second language** ☕
+- 📫 How to reach me **your.email@gmail.com**
+- ⚡ Fun fact **I turn coffee into code** ☕
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodo-hegazy&theme=github_dark&hide_border=true&layout=compact" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dodo-hegazy&theme=github_dark&no-frame=true&row=1" />
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
 </p>
 
 ---
 
-### 📈 Activity Graph
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodo-hegazy&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dodo-hegazy&show_icons=true&locale=en&theme=github_dark" alt="dodo-hegazy" />
 </p>
-
----
-
-### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/dodo-hegazy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodo-hegazy&theme=github_dark" alt="dodo-hegazy" />
 </p>
 
-<div align="center">
-  <h3>⭐ From Dareen with love ⭐</h3>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dodo-hegazy&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="dodo-hegazy" />
+</p>
